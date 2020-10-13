@@ -5,7 +5,7 @@ You might find this useful if you're planning to get into statistical learning w
 
 Any toy dataset that isn't shipped with sklearn or statmodels and part of the ISLR package will (hopefully) be converted to .csv and made avalable in the 'data' folder. Source [here](https://CRAN.R-project.org/package=ISLR). 
 
-I tried to reproduce as much as possible the steps in the labs, and to comment the code; you should definitely have the book to follow along. Note as well that although the book doesn't assume any prior knowledge of R, these notebooks are not an introduction to python; they're beginner-friendly, though.
+I tried to reproduce as much as possible the steps in the labs, and to comment the code; you should definitely have the book to follow along. Note as well that although the book doesn't assume any prior knowledge of R, these notebooks are not an introduction to python; you should have some working knowledge of pandas and matplotlib, among other things. I tried to keep things beginner-friendly, though.
 
 Packages used:
 - sklearn and statsmodels for statistical learning
